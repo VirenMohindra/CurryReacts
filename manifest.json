@@ -1,7 +1,7 @@
 {
   "name": "CurryReacts For Facebook",
   "short_name": "CurryReactsForFB",
-  "version": "0.9",
+  "version": "1.0",
   "manifest_version": 2,
   "description": "Facebook recently released a new emoji reaction. This extension replaces them with Stephen Curry's face.",
   "homepage_url": "http://virenmohindra.me/",
