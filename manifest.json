@@ -7,12 +7,12 @@
   "homepage_url": "http://virenmohindra.me/",
   "default_locale": "en",
   "icons": {
-    "16": "img/icon1.png",
-    "48": "img/icon2.png",
-    "128": "img/icon3.png"
+    "16": "icons/icon1.png",
+    "48": "icons/icon2.png",
+    "128": "icons/icon3.png"
   },
 
-  "css": [
+  "swap-this-css": [
     {
       "matches": [
         "*://*.facebook.com/*"
