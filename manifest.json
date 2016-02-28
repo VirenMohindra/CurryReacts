@@ -11,8 +11,10 @@
     "48": "icons/icon2.png",
     "128": "icons/icon3.png"
   },
-
-  "swap-this-css": [
+  "permissions": [
+    "*://*.facebook.com/*"
+  ],
+  "content_scripts": [
     {
       "matches": [
         "*://*.facebook.com/*"
@@ -22,11 +24,7 @@
       ]
     }
   ],
-
   "web_accessible_resources": [
-    "img/*.png"
-  ],
-    "permissions": [
-    "*://*.facebook.com/*"
+    "icons/*.png"
   ]
 }
