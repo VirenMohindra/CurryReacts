@@ -12,7 +12,7 @@
     "128": "img/icon3.png"
   },
 
-  "content_scripts": [
+  "css": [
     {
       "matches": [
         "*://*.facebook.com/*"
