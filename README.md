@@ -1,6 +1,8 @@
 # [CurryReact](https://chrome.google.com/webstore/detail/curryreacts-for-facebook/doomjeblpidgihaceihmjcnapmhokjbo)
 Google Chrome Extension which swaps out Facebook's emoji reactions and displays Steph Curry's beautiful face.
 
+https://img.shields.io/chrome-web-store/d/doomjeblpidgihaceihmjcnapmhokjbo.svg https://img.shields.io/chrome-web-store/rating/doomjeblpidgihaceihmjcnapmhokjbo.svg
+
 ## Preface
 After watching Stephen Curry's insane [performance](https://youtu.be/YkaqIujpcbw) against OKC on 02/27/16, I knew I had to make something *for* him.
 
